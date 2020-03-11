@@ -60,7 +60,7 @@ export default function Tables() {
   }, []);
 
   return (
-    <div className="overflow-scroll flex flex-col w-full">
+    <div className="overflow-scroll flex flex-col w-full px-2">
       <div class="card mb-5 flex-shrink-1">
         <label class="block">
           <span class="text-gray-700 text-sm">SELECT DATA TYPE</span>
