@@ -1,0 +1,646 @@
+[
+  {
+    "old_key": "InverterId",
+    "new_key": "InverterId"
+  },
+  {
+    "old_key": "GridVoltage",
+    "new_key": "GdV"
+  },
+  {
+    "old_key": "GridFrequency",
+    "new_key": "GdF"
+  },
+  {
+    "old_key": "ACOutputVoltage",
+    "new_key": "ACOV"
+  },
+  {
+    "old_key": "ACOutputFrequency",
+    "new_key": "ACOF"
+  },
+  {
+    "old_key": "ACOutputApparentPower",
+    "new_key": "ACOAP"
+  },
+  {
+    "old_key": "ACOutputActivePower",
+    "new_key": "ACOAT"
+  },
+  {
+    "old_key": "OutputLoadPercent",
+    "new_key": "OL%"
+  },
+  {
+    "old_key": "BusVoltage",
+    "new_key": "BusV"
+  },
+  {
+    "old_key": "BatteryVoltage",
+    "new_key": "BtV"
+  },
+  {
+    "old_key": "BatteryChargingCurrent",
+    "new_key": "BtCgA"
+  },
+  {
+    "old_key": "BatteryCapacity",
+    "new_key": "BtCp"
+  },
+  {
+    "old_key": "InverterHeatSinkTemp",
+    "new_key": "IvHST"
+  },
+  {
+    "old_key": "PVInputCurrent",
+    "new_key": "PVInA"
+  },
+  {
+    "old_key": "PVInputVoltage",
+    "new_key": "PVInV"
+  },
+  {
+    "old_key": "BatteryVoltageFromSCC",
+    "new_key": "BtVSCC"
+  },
+  {
+    "old_key": "BatteryDischargeCurrent",
+    "new_key": "BtDsA"
+  },
+  {
+    "old_key": "DeviceStatus1",
+    "new_key": "DvS1"
+  },
+  {
+    "old_key": "BatteryVoltageOffsetForFan",
+    "new_key": "BtVFa"
+  },
+  {
+    "old_key": "EEPROMVersion",
+    "new_key": "EEPROM"
+  },
+  {
+    "old_key": "PVChargingPower",
+    "new_key": "PVCgP"
+  },
+  {
+    "old_key": "DeviceStatus2",
+    "new_key": "DvS2"
+  },
+  {
+    "old_key": "GridCurrent",
+    "new_key": "GdA"
+  },
+  {
+    "old_key": "ACOutputCurrent",
+    "new_key": "ACOA"
+  },
+  {
+    "old_key": "BatteryRechargeVoltage",
+    "new_key": "BtRgV"
+  },
+  {
+    "old_key": "BatteryUnderVoltage",
+    "new_key": "BtUV"
+  },
+  {
+    "old_key": "BatteryBulkVoltage",
+    "new_key": "BtBkV"
+  },
+  {
+    "old_key": "BatteryFloatVoltage",
+    "new_key": "BtFlV"
+  },
+  {
+    "old_key": "BatteryType",
+    "new_key": "BtTp"
+  },
+  {
+    "old_key": "MaxACChargingCurrent",
+    "new_key": "MxACCgA"
+  },
+  {
+    "old_key": "MaxChargingCurrent",
+    "new_key": "MxCgA"
+  },
+  {
+    "old_key": "InputVoltage",
+    "new_key": "IvV"
+  },
+  {
+    "old_key": "OutputSourcePriority",
+    "new_key": "OScPt"
+  },
+  {
+    "old_key": "Chargersourcepriority",
+    "new_key": "CgScPt"
+  },
+  {
+    "old_key": "Reserved1",
+    "new_key": "Rsv1"
+  },
+  {
+    "old_key": "MachineType",
+    "new_key": "MnTp"
+  },
+  {
+    "old_key": "Topology",
+    "new_key": "Topo"
+  },
+  {
+    "old_key": "OutputMode",
+    "new_key": "OMo"
+  },
+  {
+    "old_key": "Batteryre-dischargeVoltage",
+    "new_key": "BtRedcgV"
+  },
+  {
+    "old_key": "Reserved2",
+    "new_key": "Rsv2"
+  },
+  {
+    "old_key": "Reserved3",
+    "new_key": "Rsv3"
+  },
+  {
+    "old_key": "Unknown",
+    "new_key": "Unknw"
+  },
+  {
+    "old_key": "PVLoss",
+    "new_key": "PVLs"
+  },
+  {
+    "old_key": "InverterFault",
+    "new_key": "IvFlt"
+  },
+  {
+    "old_key": "BusOver",
+    "new_key": "BusOv"
+  },
+  {
+    "old_key": "BusUnder",
+    "new_key": "BusU"
+  },
+  {
+    "old_key": "BusSoftFail",
+    "new_key": "BusStFail"
+  },
+  {
+    "old_key": "LineFail",
+    "new_key": "LnFail"
+  },
+  {
+    "old_key": "OPVShort",
+    "new_key": "OPVSht"
+  },
+  {
+    "old_key": "InverterVoltageTooLow",
+    "new_key": "IvLwV"
+  },
+  {
+    "old_key": "InverterVoltageTooHigh",
+    "new_key": "IvHgV"
+  },
+  {
+    "old_key": "OverTemperature",
+    "new_key": "OvT"
+  },
+  {
+    "old_key": "FanLocked",
+    "new_key": "FaLk"
+  },
+  {
+    "old_key": "BatteryVoltageHigh",
+    "new_key": "BtHgV"
+  },
+  {
+    "old_key": "BatteryLowAlarm",
+    "new_key": "BtLwAlm"
+  },
+  {
+    "old_key": "Reserved01",
+    "new_key": "Rsv01"
+  },
+  {
+    "old_key": "BatteryUnderShutdown",
+    "new_key": "BtUShtDw"
+  },
+  {
+    "old_key": "BatteryDerating",
+    "new_key": "BtDer"
+  },
+  {
+    "old_key": "Overload",
+    "new_key": "OvLd"
+  },
+  {
+    "old_key": "EepromFault",
+    "new_key": "EpromFlt"
+  },
+  {
+    "old_key": "InverterOverCurrent",
+    "new_key": "IvOvA"
+  },
+  {
+    "old_key": "InverterSoftFail",
+    "new_key": "IvStFl"
+  },
+  {
+    "old_key": "SelfTestFail",
+    "new_key": "SfTestFl"
+  },
+  {
+    "old_key": "OPDCVoltageOpen",
+    "new_key": "OPDCVOp"
+  },
+  {
+    "old_key": "BatteryOpen",
+    "new_key": "BtOp"
+  },
+  {
+    "old_key": "CurrentSensorFail",
+    "new_key": "ASenFl"
+  },
+  {
+    "old_key": "Reserved02",
+    "new_key": "Rsv02"
+  },
+  {
+    "old_key": "Reserved03",
+    "new_key": "Rsv03"
+  },
+  {
+    "old_key": "Reserved04",
+    "new_key": "Rsv04"
+  },
+  {
+    "old_key": "Reserved05",
+    "new_key": "Rsv05"
+  },
+  {
+    "old_key": "Reserved06",
+    "new_key": "Rsv06"
+  },
+  {
+    "old_key": "Reserved07",
+    "new_key": "Rsv07"
+  },
+  {
+    "old_key": "Reserved08",
+    "new_key": "Rsv08"
+  },
+  {
+    "old_key": "Reserved09",
+    "new_key": "Rsv09"
+  },
+  {
+    "old_key": "GeneratedToday",
+    "new_key": "GnT"
+  },
+  {
+    "old_key": "GeneratedWeek",
+    "new_key": "GnW"
+  },
+  {
+    "old_key": "GeneratedMonth",
+    "new_key": "GnM"
+  },
+  {
+    "old_key": "GeneratedYear",
+    "new_key": "GnY"
+  },
+  {
+    "old_key": "ConsumedTodayOffGrid",
+    "new_key": "ConTfGd"
+  },
+  {
+    "old_key": "ConsumedWeekOffGrid",
+    "new_key": "ConWfGd"
+  },
+  {
+    "old_key": "ConsumedMonthOffGrid",
+    "new_key": "ConMfGd"
+  },
+  {
+    "old_key": "ConsumedYearOffGrid",
+    "new_key": "ConYfGd"
+  },
+  {
+    "old_key": "ConsumedTodayOnGrid",
+    "new_key": "ConTOGd"
+  },
+  {
+    "old_key": "ConsumedWeekOnGrid",
+    "new_key": "ConWOGd"
+  },
+  {
+    "old_key": "ConsumedMonthOnGrid",
+    "new_key": "ConMOGd"
+  },
+  {
+    "old_key": "ConsumedYearOnGrid",
+    "new_key": "ConYOGd"
+  },
+  {
+    "old_key": "PeakToday",
+    "new_key": "PkT"
+  },
+  {
+    "old_key": "PeakWeek",
+    "new_key": "PkW"
+  },
+  {
+    "old_key": "PeakMonth",
+    "new_key": "PkM"
+  },
+  {
+    "old_key": "PeakYear",
+    "new_key": "PkY"
+  },
+  {
+    "old_key": "GridFrequency",
+    "new_key": "GdF"
+  },
+  {
+    "old_key": "ACOutputFrequency",
+    "new_key": "ACOF"
+  },
+  {
+    "old_key": "OutputLoadPercent (ACOutputPowerPercentage)",
+    "new_key": "OL%"
+  },
+  {
+    "old_key": "BatteryVoltage",
+    "new_key": "BtV"
+  },
+  {
+    "old_key": "BatteryCapacity",
+    "new_key": "BtCp"
+  },
+  {
+    "old_key": "PVInputVoltage",
+    "new_key": "PVInV"
+  },
+  {
+    "old_key": "PVChargingPower (SolarInputPower)",
+    "new_key": "PVCgP"
+  },
+  {
+    "old_key": "BatteryUnderVoltage",
+    "new_key": "BtUV"
+  },
+  {
+    "old_key": "BatteryBulkVoltage",
+    "new_key": "BtBkV"
+  },
+  {
+    "old_key": "BatteryFloatVoltage",
+    "new_key": "BtFlV"
+  },
+  {
+    "old_key": "BatteryType",
+    "new_key": "BtTp"
+  },
+  {
+    "old_key": "MaxACChargingCurrent",
+    "new_key": "MxACCgA"
+  },
+  {
+    "old_key": "MaxChargingCurrent",
+    "new_key": "MxCgA"
+  },
+  {
+    "old_key": "MachineType",
+    "new_key": "MnTp"
+  },
+  {
+    "old_key": "Topology",
+    "new_key": "Topo"
+  },
+  {
+    "old_key": "PVLoss",
+    "new_key": "PVLs"
+  },
+  {
+    "old_key": "OverTemperature",
+    "new_key": "OvT"
+  },
+  {
+    "old_key": "BatteryVoltageHigh",
+    "new_key": "BtHgV"
+  },
+  {
+    "old_key": "BatteryLowAlarm (BatteryLow)",
+    "new_key": "BtLwAlm"
+  },
+  {
+    "old_key": "Overload",
+    "new_key": "OvLd"
+  },
+  {
+    "old_key": "BatteryOpen",
+    "new_key": "BtOp"
+  },
+  {
+    "old_key": "PVVoltageHigh",
+    "new_key": "PVHgV"
+  },
+  {
+    "old_key": "BatteryLowHybridMode",
+    "new_key": "BtLwHy"
+  },
+  {
+    "old_key": "GridVoltageHighLoss",
+    "new_key": "GdHgV"
+  },
+  {
+    "old_key": "GridVoltageLowLoss",
+    "new_key": "GdLwV"
+  },
+  {
+    "old_key": "GridFrequencyHighLoss",
+    "new_key": "GdHgF"
+  },
+  {
+    "old_key": "GridFrequencyLowLoss",
+    "new_key": "GdLwF"
+  },
+  {
+    "old_key": "ACInputVoltageLoss",
+    "new_key": "GdLsV"
+  },
+  {
+    "old_key": "ACInputFrequencyLoss",
+    "new_key": "GdLsF"
+  },
+  {
+    "old_key": "ACInputPhaseDislocation",
+    "new_key": "GdPd"
+  },
+  {
+    "old_key": "EPOactive",
+    "new_key": "EPO"
+  },
+  {
+    "old_key": "ACInputWaveLoss",
+    "new_key": "GdLsW"
+  },
+  {
+    "old_key": "Reseved",
+    "new_key": "Rsv"
+  },
+  {
+    "old_key": "MaximumBatteryDischargeCurrentInHybridMode",
+    "new_key": "MxBtDsHyA"
+  },
+  {
+    "old_key": "ACInputRatedVoltage",
+    "new_key": "rGdV"
+  },
+  {
+    "old_key": "ACInputRatedFrequency",
+    "new_key": "rGdF"
+  },
+  {
+    "old_key": "ACInputRatedCurrent",
+    "new_key": "rGdA"
+  },
+  {
+    "old_key": "ACOutputRatedVoltage",
+    "new_key": "rACOV"
+  },
+  {
+    "old_key": "ACOutputRatedFrequency",
+    "new_key": "rACOF"
+  },
+  {
+    "old_key": "ACOutputRatedCurrent",
+    "new_key": "rACOA"
+  },
+  {
+    "old_key": "MPPTRatedCurrentPerString",
+    "new_key": "rMPPTA"
+  },
+  {
+    "old_key": "RatedBatteryVoltage",
+    "new_key": "rBtV"
+  },
+  {
+    "old_key": "BatteryCurrent",
+    "new_key": "BtA"
+  },
+  {
+    "old_key": "ACInputVoltageR",
+    "new_key": "GdV1"
+  },
+  {
+    "old_key": "ACInputVoltageS",
+    "new_key": "GdV2"
+  },
+  {
+    "old_key": "ACInputVoltageT",
+    "new_key": "GdV3"
+  },
+  {
+    "old_key": "ACInputCurrentR",
+    "new_key": "GdA1"
+  },
+  {
+    "old_key": "ACInputCurrentS",
+    "new_key": "GdA2"
+  },
+  {
+    "old_key": "ACInputCurrentT",
+    "new_key": "GdA3"
+  },
+  {
+    "old_key": "ACOutputVoltageR",
+    "new_key": "ACOV1"
+  },
+  {
+    "old_key": "ACOutputVoltageS",
+    "new_key": "ACOV2"
+  },
+  {
+    "old_key": "ACOutputVoltageT",
+    "new_key": "ACOV3"
+  },
+  {
+    "old_key": "ACOutputCurrentR",
+    "new_key": "ACOA1"
+  },
+  {
+    "old_key": "ACOutputCurrentS",
+    "new_key": "ACOA2"
+  },
+  {
+    "old_key": "ACOutputCurrentT",
+    "new_key": "ACOA3"
+  },
+  {
+    "old_key": "InnerTemperature",
+    "new_key": "InT"
+  },
+  {
+    "old_key": "ComponentMaxTemperature",
+    "new_key": "CoMxT"
+  },
+  {
+    "old_key": "ExternalBatteryTemperature",
+    "new_key": "ExBaT"
+  },
+  {
+    "old_key": "BatteryPower",
+    "new_key": "BtP"
+  },
+  {
+    "old_key": "ACInputActivePowerR",
+    "new_key": "GdAT1"
+  },
+  {
+    "old_key": "ACInputActivePowerS",
+    "new_key": "GdAT2"
+  },
+  {
+    "old_key": "ACInputActivePowerT",
+    "new_key": "GdAT3"
+  },
+  {
+    "old_key": "ACInputTotalActivePower",
+    "new_key": "GdATt"
+  },
+  {
+    "old_key": "ACOutputActivePowerR",
+    "new_key": "ACOAT1"
+  },
+  {
+    "old_key": "ACOutputActivePowerS",
+    "new_key": "ACOAT2"
+  },
+  {
+    "old_key": "ACOutputActivePowerT",
+    "new_key": "ACOAT3"
+  },
+  {
+    "old_key": "ACOutputTotalActivePower",
+    "new_key": "ACOATt"
+  },
+  {
+    "old_key": "ACOutputApparentPowerR",
+    "new_key": "ACOAP1"
+  },
+  {
+    "old_key": "ACOutputApparentPowerS",
+    "new_key": "ACOAP2"
+  },
+  {
+    "old_key": "ACOutputApparentPowerT",
+    "new_key": "ACOAP3"
+  },
+  {
+    "old_key": "ACOutputTotalApparentPower",
+    "new_key": "ACOAPt"
+  }
+]
