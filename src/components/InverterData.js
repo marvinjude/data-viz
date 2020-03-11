@@ -50,7 +50,7 @@ function InverterData() {
               </svg>
             </div>
             <div className="flex-1 ml-2 text-xl">
-              Inverter data
+              <span className="font-bold"> Inverter data</span>
               <span className="text-gray-600 text-lg">
                 {/* Use dictionary */}(
                 {dictionaryKV[selectedKey] || selectedKey})

@@ -45,7 +45,7 @@ function PVData() {
               </svg>
             </div>
             <div className="flex-1 ml-2 text-xl">
-              Solar Panel Data
+              <span className="font-bold">Inverter data</span>
               <span className="text-gray-60s0 text-lg">
                 {/* Use dictionary */}(
                 {dictionaryKV[selectedKey] || selectedKey})

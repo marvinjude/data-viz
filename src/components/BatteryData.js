@@ -39,7 +39,7 @@ function BatteryData() {
               </svg>
             </div>
             <div className="flex-1 ml-2 text-xl">
-              Battery data
+              <span className="font-bold">Battery data</span>
               <span className="text-gray-600 text-lg">
                 {/* Use dictionary */}({dictionaryKey})
               </span>
