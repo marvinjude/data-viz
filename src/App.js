@@ -19,7 +19,7 @@ function App() {
       <Router>
         <Navigation />
         <Switch>
-          <section className="flex flex-wrap px-2 sm:px-20 m-3">
+          <section className="flex flex-wrap px-2 md:px-20 m-3">
             <Route exact path="/">
               <Redirect to={{ pathname: "/chart" }} />
             </Route>
