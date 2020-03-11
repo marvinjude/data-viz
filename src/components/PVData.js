@@ -28,7 +28,7 @@ function PVData() {
         <div className="shadow p-4 rounded-md bg-white border border-gray-100">
           {/* <!-- details -->  */}
           <div className="flex my-5">
-            <div className="p-3 bg-yellow-200 rounded-full flex-shrink-0">
+            <div className="bg-yellow-200 p-3 w-12 h-12 flex justify-center items-center rounded-full flex-shrink-0">
               <svg
                 width="24"
                 height="25"

@@ -22,7 +22,7 @@ function BatteryData() {
         <div className="card">
           {/* <!-- details -->  */}
           <div className="flex my-5">
-            <div className="p-3 rounded-full flex-shrink-0	bg-orange-200">
+            <div className="p-3 w-12 h-12 flex justify-center items-center rounded-full flex-shrink-0	bg-orange-200">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
