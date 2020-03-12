@@ -13,10 +13,10 @@ const PercentageIncrease = ({ first, last, dictionaryKey }) => {
   if (difference === 0) percentage = 0;
   return (
     <div className="card flex items-center justify-center flex-col h-56">
-      <span className="text-xs text-blue-600 font-bold">
+      <span className="text-xs text-blue-600 font-extrabold">
         PERVENTAGE INCREASE/ DECREASE
       </span>
-      <div className="text-5xl font-extrabold flex items-center justify-center truncate text-center">
+      <div className="text-5xl flex items-center justify-center truncate text-center">
         <CountUp end={percentage} decimals="2" duration={0.5} suffix="%" />
         <span
           className={className({

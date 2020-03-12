@@ -39,7 +39,7 @@ function BatteryData() {
               </svg>
             </div>
             <div className="flex-1 ml-2 text-xl">
-              <span className="font-bold">Battery data</span>
+              <span className="font-semibold">Battery data</span>
               <span className="text-gray-600 text-lg">
                 {/* Use dictionary */}({dictionaryKey})
               </span>
@@ -56,7 +56,7 @@ function BatteryData() {
                 onClick={() => setSelectedKey(key)}
                 className={className(
                   "border-orange-500 delay-100 transition ease border focus:shadow-outline focus:outline-none rounded-full px-3 p-1 whitespace-no-wrap mx-1",
-                  { "bg-orange-500 text-white": selectedKey === key }
+                  { "bg-orange-500 text-white font-extrabold": selectedKey === key }
                 )}
               >
                 {key}
